@@ -1,0 +1,13 @@
+{
+  "name": "SparScout – Angebote & Einkaufsliste",
+  "short_name": "SparScout",
+  "description": "Einkaufsliste und Angebotsübersicht",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#f47721",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
